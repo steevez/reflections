@@ -10,8 +10,12 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+    When you changed a file you can stage it and repeat this with other files you change until one logical change is performed.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+    Testing some new features. Trying different approaches. Make different versions of a program.
 
 How do the diagrams help you visualize the branch structure?
 
